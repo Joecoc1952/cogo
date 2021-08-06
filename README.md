@@ -1,2 +1,2 @@
-# cogo
+# TwoD
 Coordinate Geometry
