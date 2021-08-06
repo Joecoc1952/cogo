@@ -1,2 +1,2 @@
-# twoDfoemulas
+# twoDformulas
 Coordinate Geometry
