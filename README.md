@@ -1,2 +1,2 @@
-# TwoD
+# twoDfoemulas
 Coordinate Geometry
